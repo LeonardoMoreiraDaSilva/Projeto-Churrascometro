@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+#conteiner{
+    max-width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+input{
+    padding: 5px;
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+}
